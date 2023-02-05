@@ -53,7 +53,7 @@ You can use the repository to generate stats:
   <!--CSDN-->
   <div align="center">
     <a href="https://blog.csdn.net/qq_32614873?spm=1000.2115.3001.5343" target="_blank">
-      <code><img alt="CSDN" width="15%" src="https://csdnimg.cn/cdn/content-toolbar/csdn-logo.png?v=20200416.1"></code>
+      <code><img alt="CSDN" width="12%" src="https://csdnimg.cn/cdn/content-toolbar/csdn-logo.png?v=20200416.1"></code>
     </a>
   </div>
  <!-- stats of CSDN -->
