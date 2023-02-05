@@ -7,8 +7,6 @@
 <!-- Github Profile Trophy（GitHub 资料奖杯）
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=zh4men9" /> </div> -->
 
-<!-- Visitor Badge（GitHub 访客徽章）
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zh4men9" /> </div> -->
 
 <!-- Your title -->
 <h1><img src="https://slackmojis.com/emojis/12807-meow_attentionreverse/image/1643515259/meow_attentionreverse.png" width="28"/> Hello, I'm zh4men9, a student from Beijing <img src="https://slackmojis.com/emojis/60881-meow_attention/image/1675028385/meow_attention.gif" width="30"> </h1>
@@ -39,6 +37,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- GitHub Stats Card（GitHub 统计卡片） -->
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zh4men9&hide_title=false&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
+<!-- Visitor Badge（GitHub 访客徽章） -->
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zh4men9" /> </div>
 
 <div align="center"> <img src="https://stats.justsong.cn/api/zhihu?username=That_Little-Chen&theme=gruvbox"> </div>
 
