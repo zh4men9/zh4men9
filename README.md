@@ -52,7 +52,7 @@ You can use the repository to generate stats:
 <p>
   <!--CSDN-->
   <div align="center">
-    <a target="_blank" href="https://blog.csdn.net/qq_32614873?spm=1000.2115.3001.5343">
+    <a href="https://blog.csdn.net/qq_32614873?spm=1000.2115.3001.5343" target="_blank">
       <code><img alt="CSDN" width="15%" src="https://csdnimg.cn/cdn/content-toolbar/csdn-logo.png?v=20200416.1"></code>
     </a>
   </div>
@@ -63,7 +63,7 @@ You can use the repository to generate stats:
 
   <div align="center">
     <!--知乎-->
-    <a target="_blank" href="https://www.zhihu.com/people/That_Little-Chen"><img src="./assets/images/zhihu.svg"></a>
+    <a href="https://www.zhihu.com/people/That_Little-Chen" target="_blank"><img src="./assets/images/zhihu.svg"></a>
   </div>
   <!-- stats of zhihu -->
   <div align="center"> <img src="https://stats.justsong.cn/api/zhihu?username=That_Little-Chen&theme=gruvbox"> </div>
