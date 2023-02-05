@@ -15,3 +15,8 @@
 <!-- Visitor Badge（GitHub 访客徽章） -->
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zh4men9" /> </div>
 
+<div align="center"> <img src="https://stats.justsong.cn/api/zhihu?username=That_Little-Chen"> </div>
+
+<div align="center"> <img src="https://stats.justsong.cn/api/leetcode?username=_zh4men9&cn=true"> </div>
+
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_32614873?spm=1000.2115.3001.5343"> </div>
