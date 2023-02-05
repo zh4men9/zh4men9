@@ -18,10 +18,10 @@ You can use the website to generate badges: https://shields.io/
 -->
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/C-a8b9cc?style=flat&logo=C&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/C-a8b9cc?style=flat&logo=C&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
@@ -29,9 +29,7 @@ You can use the website to generate badges: https://shields.io/
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=flat)
-
-
-&nbsp;
+<!-- &nbsp; -->
 
 # Some of my open source projects
 <!-- Most used languages（GitHub 使用语言统计） -->
