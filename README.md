@@ -1,78 +1,92 @@
-<!-- <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to zh4men9's Github!; Have a nice day!;祝您有个美好的一天!&center=true&size=23"> </a> </h1> -->
+<h1 align="center">
+  <img src="https://slackmojis.com/emojis/12807-meow_attentionreverse/image/1643515259/meow_attentionreverse.png" width="28"/> 
+  Hello, I'm zh4men9
+  <img src="https://slackmojis.com/emojis/60881-meow_attention/image/1675028385/meow_attention.gif" width="30">
+</h1>
 
-<!-- Metrics（GitHub 信息统计）
-![Metrics](https://metrics.lecoq.io/zh4men9?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai) -->
-
-
-<!-- Github Profile Trophy（GitHub 资料奖杯）
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=zh4men9" /> </div> -->
-
-
-<!-- Your title -->
-<h1><img src="https://slackmojis.com/emojis/12807-meow_attentionreverse/image/1643515259/meow_attentionreverse.png" width="28"/> Hello, I'm zh4men9.<img src="https://slackmojis.com/emojis/60881-meow_attention/image/1675028385/meow_attention.gif" width="30"> </h1>
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/C-a8b9cc?style=flat&logo=C&logoColor=white)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&style=flat)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=flat)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=flat)
-<!-- &nbsp; -->
-
-> 相信自己选择的路！
-
-## **My GitHub Stats**
-
-<!-- Your Readme Stats
-site: https://github.com/anuraghazra/github-readme-stats
-You can use the repository to generate stats:
--->
-
-<p>
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=zh4men9&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh4men9&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<p align="center">
+  相信自己选择的路！<br/>Trust the path you've chosen!
 </p>
 
-<!-- Visitor Badge（GitHub 访客徽章） -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zh4men9" /> </div>
-
-## **Other Links**
-
-<!-- 学习分享平台 -->
-<p>
-  <!--CSDN-->
-  <div align="center">
-    <a href="https://blog.csdn.net/qq_32614873?spm=1000.2115.3001.5343" target="_blank">
-      <code><img alt="CSDN" width="12%" src="https://csdnimg.cn/cdn/content-toolbar/csdn-logo.png?v=20200416.1"></code>
-    </a>
-  </div>
- <!-- stats of CSDN -->
-  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_32614873?spm=1000.2115.3001.5343&theme=onedark"> </div>
-
-  <br />
-
-  <div align="center">
-    <!--知乎-->
-    <a href="https://www.zhihu.com/people/That_Little-Chen" target="_blank"><img src="./assets/images/zhihu.svg"></a>
-  </div>
-  <!-- stats of zhihu -->
-  <div align="center"> <img src="https://stats.justsong.cn/api/zhihu?username=That_Little-Chen&theme=gruvbox"> </div>
-
-  <!-- leetcode
-  <a href="https://leetcode.cn/u/_zh4men9/">
-    <code><img alt="LeetCode" width="10%" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png"></code>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zh4men9&color=blueviolet" alt="Profile views"/>
+  <a href="https://github.com/zh4men9?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/zh4men9?color=green&logo=github">
   </a>
-
-  stats of leetcode
-  <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?username=_zh4men9&cn=true&theme=tokyonight"> </div> -->
 </p>
+
+## 🛠️ Tech Stack
+
+**OS & Tools**  
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white)
+
+**Editors**  
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Editor-Cursor-informational?style=flat&logo=cursor&logoColor=white)
+
+**Development**  
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zh4men9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh4men9&layout=compact&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zh4men9&theme=radical" alt="GitHub Streak"/>
+</div>
+
+## 🌐 Social Platforms
+
+<p align="center">
+  <a href="https://blog.csdn.net/qq_32614873" target="_blank">
+    <img src="https://img.shields.io/badge/CSDN-%23FF4F5B.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  </a>
+  <a href="https://www.zhihu.com/people/That_Little-Chen" target="_blank">
+    <img src="https://img.shields.io/badge/Zhihu-%230077FF.svg?style=for-the-badge&logo=zhihu&logoColor=white"/>
+  </a>
+  <a href="mailto:cheney.cup@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:zh4men9@163.com">
+    <img src="https://img.shields.io/badge/163-Mail-0078D4?style=for-the-badge"/>
+  </a>
+</p>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zh4men9&theme=radical&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+## 📌 Pinned Repositories
+
+<!-- 自动获取顶置仓库（需要设置仓库的 "pin" 状态） -->
+<div align="center">
+  <a href="https://github.com/zh4men9/your-repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh4men9&repo=your-repo-1&theme=radical" />
+  </a>
+  <a href="https://github.com/zh4men9/your-repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh4men9&repo=your-repo-2&theme=radical" />
+  </a>
+</div>
+
+## 💡 Recent Activity
+
+<!-- 配置方法见下方说明 -->
+<!--RECENT_ACTIVITY:start-->
+<!-- 这里会自动生成最近活动 -->
+<!--RECENT_ACTIVITY:end-->
+
+<div align="center">
+  <img src="https://slackmojis.com/emojis/12905-meow_partyparrot/image/1643515336/meow_partyparrot.gif" width="100"/>
+</div>
