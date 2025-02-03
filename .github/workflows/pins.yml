@@ -1,0 +1,12 @@
+name: Update Pinned Repos
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天更新
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/archie@v2
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          max_pins: 6 # 最多显示6个
