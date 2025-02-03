@@ -73,7 +73,7 @@
 ## 📜 Wisdom from Steve
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/images/steve-jobs.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/steve-jobs.png" width="200"/>
   <blockquote>
   <p>"Stay hungry. Stay foolish."</p>
   <footer>— Steve Jobs</footer>
