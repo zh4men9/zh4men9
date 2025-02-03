@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="https://slackmojis.com/emojis/12807-meow_attentionreverse/image/1643515259/meow_attentionreverse.png" width="28"/> 
   Hello, I'm zh4men9
-  <img src="https://slackmojis.com/emojis/60881-meow_attention/image/1675028385/meow_attention.gif" width="30">
 </h1>
 
 <p align="center">
