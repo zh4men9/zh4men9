@@ -16,8 +16,8 @@
   </a>
 </p>
 
-<!-- 浅蓝色分割线 -->
-<img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/hr-blue.svg" width="100%"/>
+
+
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +34,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
-<img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/hr-blue.svg" width="100%"/>
+
 
 ## 📊 GitHub Stats
 
@@ -47,7 +47,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zh4men9&theme=blueberry&hide_border=true" />
 </div>
 
-<img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/hr-blue.svg" width="100%"/>
+
 
 ## 🌐 Social Platforms
 
@@ -66,27 +66,12 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/hr-blue.svg" width="100%"/>
-
-## 📌 Pinned Repositories
-
-<!-- 自动获取顶置仓库 -->
-<div align="center">
-{{ range recentPins 6 }}
-  <a href="{{ .url }}">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh4men9&repo={{ .repo }}&theme=blueberry&show_owner=true"/>
-  </a>
-{{ end }}
-</div>
-
-<img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/hr-blue.svg" width="100%"/>
-
 ## 📜 Wisdom from Steve
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/steve-jobs.svg" width="200"/>
+  <img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/steve-jobs.png" width="200"/>
   <blockquote>
-  <p>"The only way to do great work is to love what you do."</p>
+  <p>"Stay hungry. Stay foolish."</p>
   <footer>— Steve Jobs</footer>
   </blockquote>
 </div>
