@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  相信自己选择的路！<br/>Trust the path you've chosen!
+  <q>相信自己选择的路！<br/>Trust the path you've chosen!</q>
 </p>
 
 <!-- 访客统计 -->
@@ -16,36 +16,38 @@
   </a>
 </p>
 
+<!-- 浅蓝色分割线 -->
+<img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/hr-blue.svg" width="100%"/>
+
 ## 🛠️ Tech Stack
 
-**OS & Tools**  
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white)
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
 
-**Editors**  
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/Editor-Cursor-informational?style=flat&logo=cursor&logoColor=white)
+**Tools & Platforms**  
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
-**Development**  
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white)
+<img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/hr-blue.svg" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zh4men9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh4men9&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zh4men9&show_icons=true&theme=blueberry&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh4men9&layout=compact&theme=blueberry&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zh4men9&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zh4men9&theme=blueberry&hide_border=true" />
 </div>
 
+<img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/hr-blue.svg" width="100%"/>
 
 ## 🌐 Social Platforms
 
@@ -62,30 +64,29 @@
   <a href="mailto:cheney.cup@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat-square"/>
   </a>
-  <a href="mailto:zh4men9@163.com">
-    <img src="https://img.shields.io/badge/163Mail-0078D4?logo=mail.ru&logoColor=white&style=flat-square"/>
-  </a>
 </p>
 
-<!-- 动态分割线 -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zh4men9&theme=gruvbox&row=2&column=4&no-frame=true&no-bg=true" />
-</div>
+<img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/hr-blue.svg" width="100%"/>
 
 ## 📌 Pinned Repositories
 
-<!-- 自动获取顶置仓库（需要设置仓库的 "pin" 状态） -->
+<!-- 自动获取顶置仓库 -->
 <div align="center">
-  <a href="https://github.com/zh4men9/your-repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh4men9&repo=your-repo-1&theme=radical" />
+{{ range recentPins 6 }}
+  <a href="{{ .url }}">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh4men9&repo={{ .repo }}&theme=blueberry&show_owner=true"/>
   </a>
-  <a href="https://github.com/zh4men9/your-repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh4men9&repo=your-repo-2&theme=radical" />
-  </a>
+{{ end }}
 </div>
 
-## 💡 Recent Activity
+<img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/hr-blue.svg" width="100%"/>
+
+## 📜 Wisdom from Steve
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/steve-jobs.svg" width="200"/>
+  <blockquote>
+  <p>"The only way to do great work is to love what you do."</p>
+  <footer>— Steve Jobs</footer>
+  </blockquote>
+</div>
