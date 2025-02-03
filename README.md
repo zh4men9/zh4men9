@@ -8,10 +8,11 @@
   相信自己选择的路！<br/>Trust the path you've chosen!
 </p>
 
+<!-- 访客统计 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zh4men9&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=zh4men9&color=007AFF&style=flat" alt="Profile views"/>
   <a href="https://github.com/zh4men9?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/zh4men9?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/zh4men9?color=007AFF&logo=apple">
   </a>
 </p>
 
@@ -45,27 +46,34 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zh4men9&theme=radical" alt="GitHub Streak"/>
 </div>
 
+
 ## 🌐 Social Platforms
 
 <p align="center">
   <a href="https://blog.csdn.net/qq_32614873" target="_blank">
-    <img src="https://img.shields.io/badge/CSDN-%23FF4F5B.svg?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSDN-FF4F5B?logo=c&logoColor=white&style=flat-square"/>
   </a>
   <a href="https://www.zhihu.com/people/That_Little-Chen" target="_blank">
-    <img src="https://img.shields.io/badge/Zhihu-%230077FF.svg?style=for-the-badge&logo=zhihu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Zhihu-0078D4?logo=zhihu&logoColor=white&style=flat-square"/>
+  </a>
+  <a href="https://space.bilibili.com/288992718">
+    <img src="https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat-square"/>
   </a>
   <a href="mailto:cheney.cup@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat-square"/>
   </a>
   <a href="mailto:zh4men9@163.com">
-    <img src="https://img.shields.io/badge/163-Mail-0078D4?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/163Mail-0078D4?logo=mail.ru&logoColor=white&style=flat-square"/>
   </a>
 </p>
+
+<!-- 动态分割线 -->
+<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zh4men9&theme=radical&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zh4men9&theme=gruvbox&row=2&column=4&no-frame=true&no-bg=true" />
 </div>
 
 ## 📌 Pinned Repositories
@@ -81,12 +89,3 @@
 </div>
 
 ## 💡 Recent Activity
-
-<!-- 配置方法见下方说明 -->
-<!--RECENT_ACTIVITY:start-->
-<!-- 这里会自动生成最近活动 -->
-<!--RECENT_ACTIVITY:end-->
-
-<div align="center">
-  <img src="https://slackmojis.com/emojis/12905-meow_partyparrot/image/1643515336/meow_partyparrot.gif" width="100"/>
-</div>
