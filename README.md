@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <q>相信自己选择的路！<br/>Trust the path you've chosen!</q>
+  相信自己选择的路！<br/>Trust the path you've chosen!
 </p>
 
 <!-- 访客统计 -->
@@ -73,7 +73,7 @@
 ## 📜 Wisdom from Steve
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/steve-jobs.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/zh4men9/zh4men9/main/assets/images/steve-jobs.png" width="200"/>
   <blockquote>
   <p>"Stay hungry. Stay foolish."</p>
   <footer>— Steve Jobs</footer>
